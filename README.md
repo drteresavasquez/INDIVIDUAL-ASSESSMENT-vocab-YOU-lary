@@ -1,8 +1,6 @@
-# Webpack Intro
+# Q2 - Individual Assessment: Vocab-YOU-lary
 
-[See Live Demo of this Template](https://webpack-5-template.netlify.app)
-
-Webpack is a task runner and a module bundler. It originally started as a module bundler. This means that it takes all of your separate Javascript modules and bundles them together into a single file. Webpack also automates some of the tasks that we have to run every time we change the code. It will automate these tasks so that we are not typing in the same commands every single time.
+[VIEW PROJECT INSTRUCTIONS](./PROJECT_INSTRUCTIONS.MD)
 
 ## Topics
 - [Get Started](#get-started)
